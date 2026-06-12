@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  <img src="battle.svg" alt="battle screen" />
+  <img src="battle.sv" alt="battle screen" />
 </div>

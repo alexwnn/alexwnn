@@ -23,7 +23,7 @@
 
   <line x1="24" y1="138" x2="756" y2="138" stroke="#d0d7de" stroke-width="0.5" stroke-dasharray="4,4"/>
 
-  <!-- RESEARCH -->
+  <!-- CURRENTLY RESEARCHING -->
   <text x="24" y="158" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
   <text x="44" y="158" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">CURRENTLY RESEARCHING</text>
 
@@ -49,9 +49,17 @@
   <text x="44" y="320" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Tools:</text>
   <text x="156" y="320" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Claude Code, Cursor, Docker, VS Code, Git, GitHub, JUnit</text>
 
+  <line x1="24" y1="336" x2="756" y2="336" stroke="#d0d7de" stroke-width="0.5" stroke-dasharray="4,4"/>
+
+  <!-- WHEN IM NOT LOCKED IN -->
+  <text x="24" y="356" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
+  <text x="44" y="356" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">WHEN I'M NOT LOCKED IN</text>
+
+  <text x="44" y="380" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Video Games, Pickleball, Gym</text>
+
   <!-- Cursor prompt -->
-  <text x="24" y="358" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#0969da">alexwnn@github:~$</text>
-  <rect x="178" y="345" width="9" height="16" fill="#0969da" opacity="0.8">
+  <text x="24" y="418" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#0969da">alexwnn@github:~$</text>
+  <rect x="178" y="405" width="9" height="16" fill="#0969da" opacity="0.8">
     <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>

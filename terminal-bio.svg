@@ -1,49 +1,61 @@
-<svg viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg" role="img" style="">
-  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Terminal bio README widget</title>
-  <defs>
-    
-  </defs>
+<svg viewBox="0 0 780 420" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Terminal bio README widget</title>
 
-  
-  <rect x="0" y="0" width="680" height="280" rx="10" fill="#1a1e2e" style="fill:rgb(26, 30, 46);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Background -->
+  <rect x="0" y="0" width="780" height="420" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
 
-  
-  <rect x="0" y="0" width="680" height="38" rx="10" fill="#1a1e2e" style="fill:rgb(26, 30, 46);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <rect x="0" y="20" width="680" height="18" fill="#1a1e2e" style="fill:rgb(26, 30, 46);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Title bar -->
+  <rect x="0" y="0" width="780" height="36" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="0" y="20" width="780" height="17" fill="#f6f8fa"/>
 
-  
-  <circle cx="20" cy="19" r="6" fill="#ff5f57" style="fill:rgb(255, 95, 87);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <circle cx="40" cy="19" r="6" fill="#ffbd2e" style="fill:rgb(255, 189, 46);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <circle cx="60" cy="19" r="6" fill="#28c840" style="fill:rgb(40, 200, 64);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Window buttons (right side, like original) -->
+  <rect x="730" y="12" width="12" height="12" rx="2" fill="none" stroke="#8c959f" stroke-width="1"/>
+  <rect x="748" y="12" width="12" height="12" rx="2" fill="none" stroke="#8c959f" stroke-width="1"/>
+  <rect x="766" y="12" width="12" height="12" rx="2" fill="none" stroke="#8c959f" stroke-width="1"/>
 
-  
-  <text x="340" y="24" text-anchor="middle" font-size="11" fill="#6272a4" letter-spacing="2" style="fill:rgb(98, 114, 164);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">TERMINAL // BIO.READ()</text>
+  <!-- Title bar text -->
+  <text x="24" y="23" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a" letter-spacing="2">TERMINAL // BIO.READ()</text>
 
-  
-  <line x1="0" y1="38" x2="680" y2="38" stroke="#2d3250" stroke-width="1" style="fill:rgb(0, 0, 0);stroke:rgb(45, 50, 80);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Divider -->
+  <line x1="0" y1="36" x2="780" y2="36" stroke="#d0d7de" stroke-width="1"/>
 
-  
-  <text x="24" y="74" font-size="14" fill="#6272a4" style="fill:rgb(98, 114, 164);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:14px;font-weight:400;text-anchor:start;dominant-baseline:auto">alex@plu:~$</text>
-  <text x="120" y="74" font-size="14" fill="#f8f8f2" style="fill:rgb(248, 248, 242);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:14px;font-weight:400;text-anchor:start;dominant-baseline:auto">cat ./bio.txt</text>
+  <!-- Prompt line -->
+  <text x="24" y="70" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#0969da">alexwnn@github:~$</text>
+  <text x="178" y="70" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#24292f">cat ./bio.txt</text>
 
-  
-  <text x="24" y="112" font-size="13" fill="#6272a4" style="fill:rgb(98, 114, 164);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">&gt;</text>
-  <text x="48" y="112" font-size="13" fill="#8be9fd" letter-spacing="1" style="fill:rgb(139, 233, 253);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">COMPUTING SCIENCES</text>
-  <text x="246" y="112" font-size="13" fill="#f8f8f2" style="fill:rgb(248, 248, 242);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">@ PLU</text>
+  <!-- Line 1: Computer Science -->
+  <text x="24" y="102" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
+  <text x="44" y="102" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">COMPUTER SCIENCE</text>
+  <text x="222" y="102" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#24292f">@ PLU</text>
 
-  
-  <text x="24" y="148" font-size="13" fill="#6272a4" style="fill:rgb(98, 114, 164);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">&gt;</text>
-  <text x="48" y="148" font-size="13" fill="#8be9fd" letter-spacing="1" style="fill:rgb(139, 233, 253);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">SPECIALIZATION:</text>
-  <text x="200" y="148" font-size="13" fill="#f8f8f2" style="fill:rgb(248, 248, 242);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">Full-Stack Web Architecture &amp; Systems Logic</text>
+  <!-- Line 2: Currently -->
+  <text x="24" y="128" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
+  <text x="44" y="128" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">CURRENTLY:</text>
+  <text x="158" y="128" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#24292f">Researching Human-Robot Interaction (HRI)</text>
 
-  
-  <text x="24" y="184" font-size="13" fill="#6272a4" style="fill:rgb(98, 114, 164);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">&gt;</text>
-  <text x="48" y="184" font-size="13" fill="#8be9fd" letter-spacing="1" style="fill:rgb(139, 233, 253);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">CORE:</text>
-  <text x="120" y="184" font-size="13" fill="#f8f8f2" style="fill:rgb(248, 248, 242);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">Next.js, TypeScript, Tailwind, Supabase (PostgreSQL)</text>
+  <!-- Divider line -->
+  <line x1="24" y1="144" x2="756" y2="144" stroke="#d0d7de" stroke-width="0.5" stroke-dasharray="4,4"/>
 
-  
-  <text x="24" y="230" font-size="14" fill="#6272a4" style="fill:rgb(98, 114, 164);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;JetBrains Mono&quot;, &quot;Courier New&quot;, monospace;font-size:14px;font-weight:400;text-anchor:start;dominant-baseline:auto">alex@plu:~$</text>
-  <rect x="120" y="216" width="10" height="18" fill="#8be9fd" opacity="0.9" style="fill:rgb(139, 233, 253);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7746;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    
+  <!-- CODE section header -->
+  <text x="24" y="166" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
+  <text x="44" y="166" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">CODE</text>
+
+  <!-- Languages -->
+  <text x="44" y="192" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Languages:</text>
+  <text x="156" y="192" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Java, Python, TypeScript, SQL, JavaScript</text>
+
+  <!-- Frameworks -->
+  <text x="44" y="214" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Frameworks:</text>
+  <text x="156" y="214" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">React, React Native, Next.js, Express.js, Node.js,</text>
+  <text x="156" y="232" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">ROS2, Gradle, Tailwind CSS, Expo, AWS</text>
+
+  <!-- Tools -->
+  <text x="44" y="254" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Tools:</text>
+  <text x="156" y="254" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Claude Code, Cursor, Docker, VS Code, Git, GitHub, JUnit</text>
+
+  <!-- Cursor prompt -->
+  <text x="24" y="290" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#0969da">alexwnn@github:~$</text>
+  <rect x="178" y="277" width="9" height="16" fill="#0969da" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>

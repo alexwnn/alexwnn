@@ -1,6 +1,6 @@
-
-
-
+<div align="center">
+  <img src="terminal-bio.svg" alt="terminal bio" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexwnn/alexwnn/pacman-output/pacman-contribution-graph-dark.svg">

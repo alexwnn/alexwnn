@@ -1,61 +1,57 @@
-<svg viewBox="0 0 780 420" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg viewBox="0 0 780 520" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Terminal bio README widget</title>
 
-  <!-- Background -->
-  <rect x="0" y="0" width="780" height="420" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
-
-  <!-- Title bar -->
+  <rect x="0" y="0" width="780" height="520" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
   <rect x="0" y="0" width="780" height="36" rx="8" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
   <rect x="0" y="20" width="780" height="17" fill="#f6f8fa"/>
-
-  <!-- Window buttons (right side, like original) -->
-  <rect x="730" y="12" width="12" height="12" rx="2" fill="none" stroke="#8c959f" stroke-width="1"/>
-  <rect x="748" y="12" width="12" height="12" rx="2" fill="none" stroke="#8c959f" stroke-width="1"/>
-  <rect x="766" y="12" width="12" height="12" rx="2" fill="none" stroke="#8c959f" stroke-width="1"/>
-
-  <!-- Title bar text -->
   <text x="24" y="23" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a" letter-spacing="2">TERMINAL // BIO.READ()</text>
-
-  <!-- Divider -->
   <line x1="0" y1="36" x2="780" y2="36" stroke="#d0d7de" stroke-width="1"/>
 
-  <!-- Prompt line -->
+  <!-- Prompt -->
   <text x="24" y="70" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#0969da">alexwnn@github:~$</text>
   <text x="178" y="70" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#24292f">cat ./bio.txt</text>
 
-  <!-- Line 1: Computer Science -->
+  <!-- Computer Science -->
   <text x="24" y="102" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
-  <text x="44" y="102" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">COMPUTER SCIENCE</text>
+  <text x="44" y="102" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">B.S. COMPUTER SCIENCE</text>
   <text x="222" y="102" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#24292f">@ PLU</text>
 
-  <!-- Line 2: Currently -->
-  <text x="24" y="128" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
-  <text x="44" y="128" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">CURRENTLY:</text>
-  <text x="158" y="128" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#24292f">Researching Human-Robot Interaction (HRI)</text>
+  <!-- Minor -->
+  <text x="24" y="122" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
+  <text x="44" y="122" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">MINOR:</text>
+  <text x="120" y="122" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#24292f">Data Science</text>
 
-  <!-- Divider line -->
-  <line x1="24" y1="144" x2="756" y2="144" stroke="#d0d7de" stroke-width="0.5" stroke-dasharray="4,4"/>
+  <line x1="24" y1="138" x2="756" y2="138" stroke="#d0d7de" stroke-width="0.5" stroke-dasharray="4,4"/>
 
-  <!-- CODE section header -->
-  <text x="24" y="166" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
-  <text x="44" y="166" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">CODE</text>
+  <!-- RESEARCH -->
+  <text x="24" y="158" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
+  <text x="44" y="158" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">CURRENTLY RESEARCHING</text>
 
-  <!-- Languages -->
-  <text x="44" y="192" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Languages:</text>
-  <text x="156" y="192" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Java, Python, TypeScript, SQL, JavaScript</text>
+  <text x="44" y="182" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Domain:</text>
+  <text x="156" y="182" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Autonomous Human-Robot Interaction (HRI)</text>
 
-  <!-- Frameworks -->
-  <text x="44" y="214" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Frameworks:</text>
-  <text x="156" y="214" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">React, React Native, Next.js, Express.js, Node.js,</text>
-  <text x="156" y="232" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">ROS2, Gradle, Tailwind CSS, Expo, AWS</text>
+  <text x="44" y="202" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Focus:</text>
+  <text x="156" y="202" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Engineering Multi-Modal HRI Protocols (ROS2 / TurtleBot 4)</text>
 
-  <!-- Tools -->
-  <text x="44" y="254" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Tools:</text>
-  <text x="156" y="254" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Claude Code, Cursor, Docker, VS Code, Git, GitHub, JUnit</text>
+  <line x1="24" y1="218" x2="756" y2="218" stroke="#d0d7de" stroke-width="0.5" stroke-dasharray="4,4"/>
+
+  <!-- SKILLS -->
+  <text x="24" y="238" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da">&#x3e;</text>
+  <text x="44" y="238" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#0969da" letter-spacing="1">SKILLS</text>
+
+  <text x="44" y="262" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Languages:</text>
+  <text x="156" y="262" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Java, Python, TypeScript, SQL, JavaScript</text>
+
+  <text x="44" y="282" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Frameworks:</text>
+  <text x="156" y="282" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">React, React Native, Next.js, Express.js, Node.js,</text>
+  <text x="156" y="300" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">ROS2, Gradle, Tailwind CSS, Expo, AWS</text>
+
+  <text x="44" y="320" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#57606a">Tools:</text>
+  <text x="156" y="320" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#24292f">Claude Code, Cursor, Docker, VS Code, Git, GitHub, JUnit</text>
 
   <!-- Cursor prompt -->
-  <text x="24" y="290" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#0969da">alexwnn@github:~$</text>
-  <rect x="178" y="277" width="9" height="16" fill="#0969da" opacity="0.8">
+  <text x="24" y="358" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#0969da">alexwnn@github:~$</text>
+  <rect x="178" y="345" width="9" height="16" fill="#0969da" opacity="0.8">
     <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
